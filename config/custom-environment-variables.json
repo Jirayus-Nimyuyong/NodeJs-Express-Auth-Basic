@@ -1,0 +1,12 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "jwt": {
+        "secret": "JWT_SECRET"
+    }
+}
